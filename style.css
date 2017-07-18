@@ -1,0 +1,83 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  border: 1px solid grey;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-bottom: 2px solid black;
+  padding: 10px 0;
+  font-size: 75px;
+  font-weight: 100px;
+}
+
+.container {
+  margin-left: 105px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.one {
+  margin-left: 105px;
+  display: inline;
+  padding-left: 80px;
+}
+
+.two {
+  display: inline;
+  padding-left: 230px;
+}
+
+ul {
+  margin: 50px;
+  list-style: none;
+  padding-left: 40px;
+  padding-right: 60px;
+  border-right: 2px solid grey;
+  margin-right: 40px;
+  color: grey;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+}
+
+b {
+  Color: #94b8b8;
+}
+
+p {
+  padding-left: 35px;
+  margin-right: 40px;
+  font-size: 20px;
+  color: grey;
+}
+
+.holder {
+  background: black;
+}
+
+.pic {
+  width: 100%;
+}
+
+img {
+  width: 170px;
+  height: 170px;
+  border-radius: 440px;
+}
