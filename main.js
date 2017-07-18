@@ -17,7 +17,7 @@ function displaymyInfo() {
 
 
   list += `<li><b>Name:</b>  ${data.name}</li>`;
-  list += `<li><b>Github URL: <a href="${data.url}"" target="_blank"></b> tenvega</a></li>`;
+  list += `<li><b>Github URL: <a href="${data.html_url}"" target="_blank"></b> tenvega</a></li>`;
   list += `<li><b>Location:</b>  ${data.location}</li>`;
   list += `<li><b>Company:</b>  ${data.company}</li>`;
   list += `<li><b>Website: <a href="${data.blog}" target="_blank"></b> linkedin</a></li>`;
